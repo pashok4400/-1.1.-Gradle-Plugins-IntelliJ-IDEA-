@@ -5,5 +5,4 @@ gradle
 *.iml
 *.ipr
 out/
-build.gradle
 build/
